@@ -1,0 +1,13 @@
+release/Commands.o
+release/Connection.o
+release/EditorScene.o
+release/EditorView.o
+release/FloatingToolBar.o
+release/Node.o
+release/Port.o
+release/main.o
+release/mainwindow.o
+release/moc_EditorScene.o
+release/moc_EditorView.o
+release/moc_FloatingToolBar.o
+release/moc_mainwindow.o

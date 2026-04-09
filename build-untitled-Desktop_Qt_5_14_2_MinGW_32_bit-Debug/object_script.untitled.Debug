@@ -1,0 +1,13 @@
+debug/Commands.o
+debug/Connection.o
+debug/EditorScene.o
+debug/EditorView.o
+debug/FloatingToolBar.o
+debug/Node.o
+debug/Port.o
+debug/main.o
+debug/mainwindow.o
+debug/moc_EditorScene.o
+debug/moc_EditorView.o
+debug/moc_FloatingToolBar.o
+debug/moc_mainwindow.o
